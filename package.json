@@ -1,0 +1,29 @@
+{
+  "name": "simple-web-tool",
+  "version": "1.0.0",
+  "description": "web tools",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "example": "serve"
+  },
+  "keywords": [
+    "web",
+    "tools"
+  ],
+  "author": "wwilll first94@outlook.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwilll/simple-web-tool.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wwilll/simple-web-tool/issues"
+  },
+  "homepage": "https://github.com/wwilll/simple-web-tool#readme",
+  "types": "./index.d.ts",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
